@@ -28,7 +28,7 @@ For creating a room:
 
 You will arrive on the Menu, press ENTER.
 
-![ScreenShot](https://github.com/ApollineCouturier/Rtype/tree/main/doc/Ressources/rtype1.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Rtype/blob/main/doc/Ressources/rtype1.PNG)
 
 
 For creating a room: tape the name of the room and press ENTER,
