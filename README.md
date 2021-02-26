@@ -36,18 +36,18 @@ For creating a room: tape the name of the room and press ENTER,
 For selecting a room: For select down use the key arrow-down for select up use the key arrow-up and press ENTER
 
 
-![ScreenShot](https://github.com/ApollineCouturier/Rtype/tree/main/doc/Ressources/rtype4.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Rtype/blob/main/doc/Ressources/rtype4.PNG)
 
 once you selected your room press SPACE to start
 
-![ScreenShot](https://github.com/ApollineCouturier/Rtype/tree/main/doc/Ressources/rtype5.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Rtype/blob/main/doc/Ressources/rtype5.PNG)
 
 Option - Music volume:
 ----------------------
 
 You can change the volume of the music with the left arrow key to reduce and right arrow key to raise up
 
-![ScreenShot](https://github.com/ApollineCouturier/Rtype/tree/main/doc/Ressources/rtype2.PNG)
+![ScreenShot](https://github.com/ApollineCouturier/Rtype/blob/main/doc/Ressources/rtype2.PNG)
 
 Playing the Game:
 -----------------
@@ -68,6 +68,6 @@ if you hit a monster you won points;
 3) Ennemy Attack
 4) Stage Obstacles
 
-![ScreenShot](https://github.com/ApollineCouturier/Rtype/tree/main/doc/Ressources/thumbnail_rtype6.png)
+![ScreenShot](https://github.com/ApollineCouturier/Rtype/blob/main/doc/Ressources/thumbnail_rtype6.png)
 
 Enjoy!
